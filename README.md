@@ -1,5 +1,5 @@
 - 👋 Hi, I’m document.write("João Victor :P")
-- 👀 I’m a new student of programation, specificy javascript.
+- 👀 I’m a new student of programmation, specificy javascript.
 - 🌱 I’m currently learning about HTML, CSS e Js.
 - 💞️ I’m looking to collaborate on begginers community to learn anda help each others.
 - 📫 How to reach me: follow me on (https://twitter.com/jaumtorres)
